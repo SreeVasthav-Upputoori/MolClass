@@ -1,5 +1,5 @@
 streamlit>=1.32
-rdkit-pypi
+rdkit
 scikit-learn>=1.4
 lightgbm>=4.0
 xgboost>=2.0
