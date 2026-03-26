@@ -3,6 +3,7 @@
 A production-ready, interactive web application for end-to-end binary classification of molecular data (SMILES format), built with **Streamlit** and **Python**.
 
 ---
+Ready to use : https://molclass-usv.streamlit.app/
 
 ## Features
 
